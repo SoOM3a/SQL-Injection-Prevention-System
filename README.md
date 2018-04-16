@@ -1,0 +1,2 @@
+# SQL-Injection-Prevention-System
+SQL injection prevention system that analysis Request parameters by matching pattern and calculate Risk factor for this parameter and drop the request if risk factor greater than threshold  Put by admin, give Admin some analysis of input and IPs that access his web app , and create a SQL spider that collect all request from html and brute force for all these requests  to find that parameter  vulnerable with SQL injection  .
